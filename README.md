@@ -1,4 +1,4 @@
-# Smart-Home-Module
+# Smart Home Module
 
 ## Description
 Smart home module controller and the web server. It can be controlled and configured via e-mail.
